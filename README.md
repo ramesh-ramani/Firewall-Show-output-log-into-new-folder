@@ -1,0 +1,1 @@
+This script will Log into a firewall, dow a show command and print that output into a file and store it in a particular folder. You can call this script with a Cronjob to make it run at regular intervals of time to get a snapshot of the network
